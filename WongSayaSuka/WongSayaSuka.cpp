@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    cout << "jihad GAY\n";
+    cout << "Luas Lingkaran\n";
 
     //begin
         // numeric nJari, nLuas
@@ -18,6 +18,7 @@ int main()
     double nJari, nLuas;
     cout << "Masukkan jejari = ";
     system("Pause");
+
 
     
 
